@@ -1,0 +1,43 @@
+/* Dictionary.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+h3 {
+  margin-top: 16px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li img {
+  max-width: 100px;
+  height: auto;
+  margin: 5px;
+}
+/* Dictionary.css */
+/* ... (existing styles) */
+
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.small-image {
+  width: 100px;
+  height: auto;
+  margin: 5px;
+}
